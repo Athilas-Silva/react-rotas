@@ -1,0 +1,14 @@
+.img-scrum{
+    height: 300px;
+    width: 600px;
+    padding-bottom: 10px;
+}
+.botao-scrum{
+    padding: 10px;
+    background-color: #F68D2E;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}

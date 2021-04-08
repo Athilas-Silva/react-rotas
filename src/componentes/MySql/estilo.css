@@ -1,0 +1,14 @@
+.img-mysql{
+    height: 300px;
+    width: 600px;
+    padding-bottom: 10px;
+}
+.botao-sql{
+    padding: 10px;
+    background-color: #4479A1;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,14 @@
+.img-seo{
+    height: 300px;
+    width: 600px;
+    padding-bottom: 10px;
+}
+.botao-seo{
+    padding: 10px;
+    background-color: #4285F4;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}

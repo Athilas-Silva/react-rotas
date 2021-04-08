@@ -1,0 +1,16 @@
+.img-node{
+    height: 300px;
+    width: 600px;
+    padding-bottom: 10px;
+}
+.botao-back{
+    padding: 10px;
+    color: white;
+    background-color: #43853d;
+    
+}
+
+a{
+    text-decoration: none;
+}
+

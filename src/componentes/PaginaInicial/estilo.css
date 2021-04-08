@@ -1,0 +1,39 @@
+.conteudo-opcoes{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.opcao-front-end{
+    background-color: #61dafb;
+    color: #00f;
+    text-decoration: none;
+}
+
+.opcao-back-end{
+    background-color: #43853d;
+    color: white;
+    text-decoration: none;
+}
+
+.opcao-banco-dados{
+    background-color: #4479A1;
+    color: white;
+    text-decoration: none;
+}
+
+.opcao-scrum{
+    background-color: #F68D2E;
+    color: white;
+    text-decoration: none;
+}
+
+.opcao-seo-google{
+    background-color: #4285F4;
+    color: white;
+    text-decoration: none;
+}
+.img-javascript{
+    width: 800px;
+    height: 400px;
+}

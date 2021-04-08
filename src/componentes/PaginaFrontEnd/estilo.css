@@ -1,0 +1,14 @@
+.img-react{
+    height: 300px;
+    width: 600px;
+    padding-bottom: 10px;
+}
+.botao{
+    padding: 10px;
+    background-color: #61dafb;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
